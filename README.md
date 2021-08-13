@@ -23,4 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='instagram-part1-1.gif>
+<img src="instagram-part1-1.gif" width = 250>
+        
